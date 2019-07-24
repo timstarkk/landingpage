@@ -1,4 +1,3 @@
-
 body {
 	color: white;
 	background-image: url("background.jpg");
@@ -20,7 +19,4 @@ body {
 	font-family: 'Lora', serif;
 	font-size: 3em;
 	text-shadow: 2px black;
-}
-
-.btn {
 }
